@@ -1,0 +1,5 @@
+Este es un ejemplo de línea de texto para el archivo de entrada.
+Cada línea debe tener máximo 80 caracteres.
+Segunda línea del archivo de entrada.
+1234567890123456789012345678901234567890
+Línea final del archivo de entrada.
